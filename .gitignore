@@ -1,3 +1,6 @@
+./venv/
 /venv/
+/venv/Lib/
 venv
 venv/
+venv/*
